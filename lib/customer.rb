@@ -27,8 +27,6 @@ class Customer
      meal.customer == self
     end 
   end 
-    
-  end 
   
   def best_tipper
     
